@@ -1,1 +1,5 @@
 # a requirements.txt (even an empty one) signifies that this is a python app
+
+
+# gunicorn is a pure python web server
+gunicorn
